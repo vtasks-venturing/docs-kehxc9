@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-wwsymp.leogaming.cfd/sitemap.xml
